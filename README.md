@@ -1,8 +1,8 @@
-# AI-Human-Joy 😊❤️
+# AI-Human-Joy 
 
-A research project and experimental AI framework that enhances human joy through interactive feedback and sentiment-based reward learning.
 
-## 🌟 Project Structure
+
+##  Project Structure
 
 ```
 ai-human-joy/
@@ -18,7 +18,7 @@ ai-human-joy/
 │   │   └── reward_converter.py
 │   ├── interface/
 │   │   └── cli.py
-│   └── train.py
+│   └── trainn.py
 │
 ├── data/
 │   ├── feedback_log.json
@@ -33,7 +33,7 @@ ai-human-joy/
 └── README.md
 ```
 
-## 💡 Description
+##  Description
 
 This project is built around an AI agent that interacts with humans, receives natural language feedback, analyzes sentiment, and learns to optimize responses to maximize positive human emotion — **Joy**.
 
@@ -43,7 +43,7 @@ This project is built around an AI agent that interacts with humans, receives na
 - Reward shaping based on emotional response
 - Model training loop for happiness optimization
 
-## 🚀 How to Run
+##  How to Run
 
 Install dependencies:
 
@@ -63,7 +63,7 @@ Train the model:
 python src/train.py
 ```
 
-## 🧠 Future Work
+##  Future Work
 
 - Integrate large language model (e.g., GPT, Mistral)
 - Human-AI co-creative conversation generation
@@ -71,4 +71,4 @@ python src/train.py
 
 ---
 
-Built with ❤️ by Shirmohammad for joy-centered AI research.
+Built with  by Shirmohammad Tavangari
