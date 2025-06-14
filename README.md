@@ -71,4 +71,4 @@ python src/train.py
 
 ---
 
-Built with  by Shirmohammad Tavangari
+Built by Shirmohammad Tavangari
