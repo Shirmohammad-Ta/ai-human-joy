@@ -1,0 +1,16 @@
+[
+    {
+        "input": "How are you?",
+        "response": "🤖 I'm learning to make you happier!",
+        "feedback": "It was really good",
+        "sentiment": 0.9,
+        "reward": 0.9
+    },
+    {
+        "input": "You're not helping at all!",
+        "response": "🤖 I'm learning to make you happier!",
+        "feedback": "It was weak",
+        "sentiment": -0.8,
+        "reward": -0.8
+    }
+]
