@@ -1,0 +1,4 @@
+torch
+textblob
+numpy
+pandas
