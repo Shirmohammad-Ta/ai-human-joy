@@ -1,6 +1,6 @@
 # AI-Human-Joy 
 
-
+AI-Human-Joy is an interactive AI system that learns to enhance user happiness by adapting to real-time emotional feedback.
 
 ##  Project Structure
 
