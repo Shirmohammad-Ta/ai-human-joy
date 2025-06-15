@@ -71,4 +71,6 @@ python src/train.py
 
 ---
 
-Built by Shirmohammad Tavangari
+## License
+
+MIT License
